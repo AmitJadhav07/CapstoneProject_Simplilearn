@@ -1,4 +1,4 @@
-# Project1_Simplilearn
+# CapstoneProject_Simplilearn
 
 ## Project Description
 
